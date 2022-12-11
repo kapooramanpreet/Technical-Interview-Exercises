@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this repo for instructional content, please cite it as below."
+authors:
+  - family-names: Kapoor
+    given-names: Amanpreet
+    orcid: https://orcid.org/0000-0003-1340-8315
+  - family-names: Panchal
+    given-names: Sajani
+  - family-names: Gardner-McCune
+    given-names: Christina
+title: "Hire Thy Gator Technical Interview Exercises"
+version: 0.0.1
+doi: 
+date-released: 2022-12-10
+url: "https://github.com/kapooramanpreet/Technical-Interview-Exercises"

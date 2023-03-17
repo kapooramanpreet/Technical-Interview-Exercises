@@ -25,6 +25,6 @@ In this exercise, you will be pairing up with a `[self-selected/random]` student
 - Make sure to have the correct visibility setting for the Google doc file for the purpose of grading by opening the URL in Incognito mode on Chrome or in a Private Tab on Safari/Firefox.
 
 ### Optional Readings/Videos
-- https://www.freecodecamp.org/news/coding-interviews-for-dummies-5e048933b82b/ 
+- https://www.freecodecamp.org/news/coding-interviews-for-dummies-5e048933b82b/
 - https://www.youtube.com/watch?v=aClxtDcdpsQ
 - https://www.youtube.com/watch?v=BN0B4mOtwX0 

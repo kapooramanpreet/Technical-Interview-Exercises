@@ -1,8 +1,8 @@
 # Hire Thy Gator Technical Interview Exercises
 
-## Instructions for Interviewer 
+## Instructions for Interviewer [When you interviewed a candidate]
 
-In this exercise, you will be pairing up with a `[self-selected/random]` student and each of you will interview the other on a technical interview question. Technical interviews act as gatekeepers to joining computing jobs and the goal of this assignment is to experience a technical interview in a low-stakes environment. If you are not familiar with a technical interview, here is an example: https://www.youtube.com/watch?v=XKu_SEDAykw 
+In this exercise, you will be pairing up with a `[self-selected/random]` student and each of you will interview the other on a technical interview question. Technical interviews act as gatekeepers to joining computing jobs and the goal of this assignment is to experience a technical interview in a low-stakes environment. If you are not familiar with a technical interview, here is an example: https://www.youtube.com/watch?v=XKu_SEDAykw
 
 
 ### As an Interviewer, 
@@ -12,7 +12,7 @@ In this exercise, you will be pairing up with a `[self-selected/random]` student
 - The questions/problem should be of level `[Easy or Medium]` if selecting from external resources that categorize questions by difficulty.
 - You need to **prepare beforehand** on what question you are going to ask them and be familiar with at least one solution.
 - How to conduct the interviews as an interviewer
-    - https://www.lihaoyi.com/post/HowtoconductagoodProgrammingInterview.html 
+    - https://www.lihaoyi.com/post/HowtoconductagoodProgrammingInterview.html
     - https://www.youtube.com/watch?v=BN0B4mOtwX0
 - Examples of a sample interview problem:
     - https://stepik.org/lesson/714340/step/4?unit=715144
@@ -37,5 +37,5 @@ In this exercise, you will be pairing up with a `[self-selected/random]` student
 - Make sure to have the correct visibility setting for the video and Google doc file for the purpose of grading by opening the URL in Incognito mode on Chrome or in a Private Tab on Safari/Firefox.
 
 ### Optional Readings/Videos
-- https://www.freecodecamp.org/news/coding-interviews-for-dummies-5e048933b82b/ 
+- https://www.freecodecamp.org/news/coding-interviews-for-dummies-5e048933b82b/
 - https://www.youtube.com/watch?v=aClxtDcdpsQ
